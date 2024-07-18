@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "name": "windows-g++-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/mingw64/include",
+                "D:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+                "D:/mingw64/x86_64-w64-mingw32/include"
+            ],
+            "compilerPath": "D:/mingw64/bin/g++.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++20",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
